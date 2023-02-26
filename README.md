@@ -31,8 +31,6 @@
 
   ## [Links](#table-of-contents)
 
-  Please contact me using the following links:
-
   [GitHub](https://github.com/mikestem)
 
   [Walk Through Video](https://drive.google.com/file/d/1WxwWA2kPqUVAMZrM4EXWHz99AikiHmb-/view)
